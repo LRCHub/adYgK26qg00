@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "消えない欠片",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:27:23.827526Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えない欠片",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_消えない欠片_霜月はるか.txt"
+    }
+  ]
+}
